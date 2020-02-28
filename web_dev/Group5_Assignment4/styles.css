@@ -1,0 +1,9 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+li {
+	margin: 15px 30px;
+	list-style: none;
+}

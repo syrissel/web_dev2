@@ -1,0 +1,24 @@
+label, input, textarea {
+	display: block;
+}
+
+#linkbutton
+{
+	 background:none!important;
+     color:inherit;
+     border:none; 
+     padding:0!important;
+     font: inherit;
+     cursor: pointer;
+     text-decoration: underline;
+}
+
+#linkbutton:hover 
+{
+	color: blue;
+}
+
+.nobr br
+{
+	display:none;
+}
